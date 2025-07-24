@@ -115,6 +115,7 @@ To switch the memory generator used in the simulation, modify the line inside th
 
 ```cpp
 auto mem_gen_func = MemoryGenerator::memGen5; // Default
+```
 
 ### Sample Output
 
