@@ -47,7 +47,6 @@ Ensure you have a C++ compiler installed:
    ```bash
    git clone https://github.com/your-username/cache-simulator-cpp.git
    cd cache-simulator-cpp
-   ``
    
 2. Compile the simulator:
    ``bash
