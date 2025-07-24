@@ -132,7 +132,7 @@ Conflict: 114530
 You can use this data to analyze how well different cache organizations and replacement strategies perform under specific access patterns.
 
 ### Project Structure
-cache-simulator-cpp/
+cache-simulator/
 ├── main.cpp # Main source file containing all cache classes and logic
 ├── README.md # Project documentation (this file)
 
